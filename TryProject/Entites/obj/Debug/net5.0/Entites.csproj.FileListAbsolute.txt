@@ -1,0 +1,15 @@
+C:\Users\jzore\source\repos\TryProject\Entites\bin\Debug\net5.0\Entites.deps.json
+C:\Users\jzore\source\repos\TryProject\Entites\bin\Debug\net5.0\Entites.dll
+C:\Users\jzore\source\repos\TryProject\Entites\bin\Debug\net5.0\Entites.pdb
+C:\Users\jzore\source\repos\TryProject\Entites\bin\Debug\net5.0\Core.dll
+C:\Users\jzore\source\repos\TryProject\Entites\bin\Debug\net5.0\Core.pdb
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.csproj.AssemblyReference.cache
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.AssemblyInfoInputs.cache
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.AssemblyInfo.cs
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.csproj.CopyComplete
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.dll
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\refint\Entites.dll
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\Entites.pdb
+C:\Users\jzore\source\repos\TryProject\Entites\obj\Debug\net5.0\ref\Entites.dll
